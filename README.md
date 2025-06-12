@@ -15,7 +15,7 @@ CUDA_VISIBLE_DEVICES=0 torchrun --master_port=6666 --nproc_per_node=1 main.py \
 --data-path ./dataset --output_dir ./output --no_amp
 ```
 
-
+If Vim folder cannot download, you can visit [here](https://github.com/hustvl/Vim) to get Vision Mamba model.
 
 
 
