@@ -1,4 +1,4 @@
-The author of the paper and the code is Han Zhi Li. I sincerely thank Professor Jia Guo from Columbia University (jg3400@columbia.edu) for his guidance on this research.
+The author of the paper and the code is Hanzhi Li(1226860769@qq.com). I sincerely thank Professor Jia Guo from Columbia University (jg3400@columbia.edu) for his guidance on this research.
 
 This code is associated with the paper "Vision Mamba for Accurate and Efficient Alzheimer’s Disease Classification via Brain MRI". The following content is the abstract of this article. 
 
